@@ -1,7 +1,7 @@
 function changefont()
 {
 
-    var x = document.getElementById("cn");
+    var x = document.getElementById("demo");
     x.style.fontSize = "25px";           
     x.style.color = "red"; 
 }
